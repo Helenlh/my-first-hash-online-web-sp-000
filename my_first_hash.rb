@@ -54,5 +54,5 @@ shipping_manifest ["muskets"] = "2"
                   "gunpowder" => 4
  }
  end 
- 
+  shipping_manifest 
  
